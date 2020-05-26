@@ -26,9 +26,9 @@ trial:
   virtualCluster: develop2
 paiYarnConfig:
   #The username to login pai
-  userName: username
+  userName: 
   #The password to login pai
-  passWord: password
+  passWord: 
   #The host of restful server of pai
   host: 192.168.211.5
-nniManagerIP: 192.168.211.18
+nniManagerIp: 192.168.211.18
